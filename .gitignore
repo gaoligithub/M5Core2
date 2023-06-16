@@ -4,3 +4,6 @@
 examples/Basics/.DS_Store
 .development
 examples/Touch/.DS_Store
+**/esp32.svd
+**/debug.cfg
+**/debug_custom.json

@@ -18,7 +18,7 @@
 String file_name =
     "/M5Stack/notes.txt";  //Sets the location and name of the file to be operated on.  设置被操作的文件位置和名称
 bool SPIFFS_FORMAT =
-    true;  //Whether to initialize the SPIFFS.  是否初始化SPIFFS
+    false;  //Whether to initialize the SPIFFS.  是否初始化SPIFFS
 //You don't need to format the flash file system every time you use it.
 //无需每次使用闪存都进行格式化
 

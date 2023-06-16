@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/**",
+                "/home/macl/Arduino/libraries/**",
+                "/home/macl/Arduino/libraries/lvgl/**",
+                "/home/macl/Arduino/libraries/lvgl/**",
+                "/home/macl/Arduino/libraries/PubSubClient/**",
+                "/home/macl/.arduino15/**",
+                "/usr/local/include/**"
+            ],
+            "defines": ["ESP32","__XTENSA__"],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
